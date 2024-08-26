@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\source\\repos\\EmployeeAPIS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{826BEB3A-98D5-4339-84D9-2D53D22ED0CE}|EmployeeAPIS\\EmployeeAPIS.csproj|c:\\users\\lenovo\\source\\repos\\employeeapis\\employeeapis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{826BEB3A-98D5-4339-84D9-2D53D22ED0CE}|EmployeeAPIS\\EmployeeAPIS.csproj|solutionrelative:employeeapis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826BEB3A-98D5-4339-84D9-2D53D22ED0CE}|EmployeeAPIS\\EmployeeAPIS.csproj|c:\\users\\lenovo\\source\\repos\\employeeapis\\employeeapis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826BEB3A-98D5-4339-84D9-2D53D22ED0CE}|EmployeeAPIS\\EmployeeAPIS.csproj|solutionrelative:employeeapis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826BEB3A-98D5-4339-84D9-2D53D22ED0CE}|EmployeeAPIS\\EmployeeAPIS.csproj|c:\\users\\lenovo\\source\\repos\\employeeapis\\employeeapis\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826BEB3A-98D5-4339-84D9-2D53D22ED0CE}|EmployeeAPIS\\EmployeeAPIS.csproj|solutionrelative:employeeapis\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826BEB3A-98D5-4339-84D9-2D53D22ED0CE}|EmployeeAPIS\\EmployeeAPIS.csproj|c:\\users\\lenovo\\source\\repos\\employeeapis\\employeeapis\\employeeapis.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{826BEB3A-98D5-4339-84D9-2D53D22ED0CE}|EmployeeAPIS\\EmployeeAPIS.csproj|solutionrelative:employeeapis\\employeeapis.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826BEB3A-98D5-4339-84D9-2D53D22ED0CE}|EmployeeAPIS\\EmployeeAPIS.csproj|c:\\users\\lenovo\\source\\repos\\employeeapis\\employeeapis\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826BEB3A-98D5-4339-84D9-2D53D22ED0CE}|EmployeeAPIS\\EmployeeAPIS.csproj|solutionrelative:employeeapis\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826BEB3A-98D5-4339-84D9-2D53D22ED0CE}|EmployeeAPIS\\EmployeeAPIS.csproj|c:\\users\\lenovo\\source\\repos\\employeeapis\\employeeapis\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826BEB3A-98D5-4339-84D9-2D53D22ED0CE}|EmployeeAPIS\\EmployeeAPIS.csproj|solutionrelative:employeeapis\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826BEB3A-98D5-4339-84D9-2D53D22ED0CE}|EmployeeAPIS\\EmployeeAPIS.csproj|c:\\users\\lenovo\\source\\repos\\employeeapis\\employeeapis\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826BEB3A-98D5-4339-84D9-2D53D22ED0CE}|EmployeeAPIS\\EmployeeAPIS.csproj|solutionrelative:employeeapis\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\EmployeeAPIS\\EmployeeAPIS\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeAPIS\\appsettings.json",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\EmployeeAPIS\\EmployeeAPIS\\appsettings.json",
+              "RelativeToolTip": "EmployeeAPIS\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-07T09:01:42.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeAPIS",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\EmployeeAPIS\\EmployeeAPIS\\EmployeeAPIS.csproj",
+              "RelativeDocumentMoniker": "EmployeeAPIS\\EmployeeAPIS.csproj",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\EmployeeAPIS\\EmployeeAPIS\\EmployeeAPIS.csproj",
+              "RelativeToolTip": "EmployeeAPIS\\EmployeeAPIS.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-07T08:57:12.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\EmployeeAPIS\\EmployeeAPIS\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeAPIS\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\EmployeeAPIS\\EmployeeAPIS\\Program.cs",
+              "RelativeToolTip": "EmployeeAPIS\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T08:56:56.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\EmployeeAPIS\\EmployeeAPIS\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EmployeeAPIS\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\EmployeeAPIS\\EmployeeAPIS\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EmployeeAPIS\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAkwDwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T08:56:00.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\EmployeeAPIS\\EmployeeAPIS\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "EmployeeAPIS\\Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\EmployeeAPIS\\EmployeeAPIS\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "EmployeeAPIS\\Services\\EmployeeService.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAmwDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T08:54:52.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\EmployeeAPIS\\EmployeeAPIS\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "EmployeeAPIS\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\EmployeeAPIS\\EmployeeAPIS\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "EmployeeAPIS\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T08:53:57.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\EmployeeAPIS\\EmployeeAPIS\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeAPIS\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\EmployeeAPIS\\EmployeeAPIS\\Models\\Employee.cs",
+              "RelativeToolTip": "EmployeeAPIS\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T08:52:49.152Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
